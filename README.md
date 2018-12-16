@@ -15,6 +15,8 @@ In this repo, I'll begin with three of the programming languages I daily use, **
 
 ## C++
 
-SerialPortFinder is the C++ project 
+[SerialPortFinder](https://github.com/alien70/SerialPortFinder/tree/master/COMPortSelection) is the C++ project 
 
 ## C#
+
+[USBInfo](https://github.com/alien70/SerialPortFinder/tree/master/USBInfo) is a .NET/C# project.
