@@ -12,3 +12,9 @@ A typical use is when a software has to read some data from a USB device emulati
 There are meny different ways to achieve this goal, and many article, blog posts suggesting good solutions for different programming languages.
 
 In this repo, I'll begin with three of the programming languages I daily use, **C++** and **C#**, then a project for TypeScript/JavaScript will follow.
+
+## C++
+
+SerialPortFinder is the C++ project 
+
+## C#
