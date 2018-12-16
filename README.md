@@ -9,11 +9,6 @@ On Windows&reg; operating systems, the main source of informations of currently 
 
 A typical use is when a software has to read some data from a USB device emulating a COM port (e.g. an Arduino&reg; sending temperature and humidity read from a **DHT11** sensor). Changing the USB port will tipically result in a COM port number change. To avoid the necessity to change it in a configuration file, or even worst, recompiling the software.
 
+There are meny different ways to achieve this goal, and many article, blog posts suggesting good solutions for different programming languages.
 
-
-## C++
-
-## C#
-
-## Typescript/Javascript
-
+In this repo, I'll begin with three of the programming languages I daily use, **C++** and **C#**, then a project for TypeScript/JavaScript will follow.
